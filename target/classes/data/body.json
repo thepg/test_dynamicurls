@@ -1,0 +1,17 @@
+{
+  "dynamicLinkInfo": {
+    "domainUriPrefix": "https://testdynamiclinks00.page.link",
+    "link": "https://google.com/",
+    "androidInfo": {
+      "androidPackageName": null,
+      "androidFallbackLink": "https://play.google.com/store/apps/details?id=com.attijariwafabank.corporate"
+    },
+    "iosInfo": {
+      "iosBundleId": null,
+      "iosFallbackLink": "https://apps.apple.com/id866031335"
+    }
+  },
+  "suffix": {
+    "option": "SHORT"
+  }
+}

@@ -1,0 +1,12 @@
+/home/mobo/Work/work/test_dynamicurls/src/main/java/app/java/firebase/dltest/controller/UserController.java
+/home/mobo/Work/work/test_dynamicurls/src/main/java/app/java/firebase/dltest/repository/FirebaseRepository.java
+/home/mobo/Work/work/test_dynamicurls/src/main/java/app/java/firebase/dltest/entity/IosInfo.java
+/home/mobo/Work/work/test_dynamicurls/src/main/java/app/java/firebase/dltest/service/UserService.java
+/home/mobo/Work/work/test_dynamicurls/src/main/java/app/java/firebase/dltest/entity/AndroidInfo.java
+/home/mobo/Work/work/test_dynamicurls/src/main/java/app/java/firebase/dltest/entity/DynamicLinkInfo.java
+/home/mobo/Work/work/test_dynamicurls/src/main/java/app/java/firebase/dltest/entity/User.java
+/home/mobo/Work/work/test_dynamicurls/src/main/java/app/java/firebase/dltest/config/RestTemplateConfig.java
+/home/mobo/Work/work/test_dynamicurls/src/main/java/app/java/firebase/dltest/entity/Suffix.java
+/home/mobo/Work/work/test_dynamicurls/src/main/java/app/java/firebase/dltest/repository/UserRepository.java
+/home/mobo/Work/work/test_dynamicurls/src/main/java/app/java/firebase/dltest/Application.java
+/home/mobo/Work/work/test_dynamicurls/src/main/java/app/java/firebase/dltest/entity/FirebaseBody.java
